@@ -42,8 +42,7 @@ struct Zmogus
                 cout << "fatal error : " << err << endl;
 
             }
-            //cout << Vardas << "  " << Pavarde << " " << gimimoMetai << " " << Miestas << " " << Lytis << endl;
-
+            
 
             duomenys.close();
         }
